@@ -30,7 +30,6 @@ body{
 
 .left-container{
       margin: 0;
-      padding:;
 }
 
 .hero{
@@ -54,7 +53,6 @@ body{
 }
 .container{
       display: flex;
-      flex-direction:;
       margin: 0;
       padding:150px;
       background-color: #1f2937;
