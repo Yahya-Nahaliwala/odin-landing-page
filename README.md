@@ -1,1 +1,1 @@
-# odin-landing-page
+Landing Page assignment in The Odin Project Course.
